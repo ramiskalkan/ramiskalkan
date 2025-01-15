@@ -23,7 +23,7 @@ Check it out 👉 [**coloringpagespro.com**](https://coloringpagespro.com)
 ---
 
 🔗 **Connect with Me**  
-- LinkedIn: [linkedin.com/in/ramiskalkan](https://www.linkedin.com/in/ramiskalkan) 
+- LinkedIn: [linkedin.com/in/ramis-kalkan](https://www.linkedin.com/in/ramis-kalkan/) 
 
 <!--
 **ramiskalkan/ramiskalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
