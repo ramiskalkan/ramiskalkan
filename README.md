@@ -1,17 +1,6 @@
 # Hi there, I'm Ramis Kalkan! 👋
 
 🚀 **SEO Specialist | Software Developer | Digital Creator**
-
----
-
-### 🛠 What I'm Working On:
-
-🎨 I'm currently developing [**ColoringPagesPro.com**](https://coloringpagespro.com), a fun and innovative platform where **AI meets creativity**! Our mission is to provide the best **[AI Coloring Page Generator](https://coloringpagespro.com)** for kids and adults. Whether you're looking for a relaxing hobby or an engaging way to enhance your artistic skills, we've got you covered.  
-
-Explore our wide selection of [**coloring pages**](https://coloringpagespro.com/coloring-pages), including fantasy-themed, seasonal, and educational designs.  
-
-Check it out 👉 [**coloringpagespro.com**](https://coloringpagespro.com)
-
 ---
 
 ### 🔍 About Me
