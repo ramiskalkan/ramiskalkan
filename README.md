@@ -1,17 +1,14 @@
-# Hi there, I'm Ramis Kalkan! 👋
+# Hi there, I'm Ramis! 
 
-🚀 **SEO Specialist | Software Developer | Digital Creator**
+ **SEO Specialist | Software Developer | Digital Creator**
 ---
 
-### 🔍 About Me
+### About Me
 
-- 🌐 Passionate about SEO and web development. I love combining data-driven strategies with tech to create scalable solutions.
-- ✍️ Obsessed with creating meaningful content, developing cool micro SaaS projects, and growing ideas into products.
-- 🧩 In my free time, you'll find me coding, brainstorming new ideas, or watching **Beşiktaş JK** dominate ⚽.
-- 
+- Passionate about SEO and web development. I love combining data-driven strategies with tech to create scalable solutions.
+- Obsessed with creating meaningful content, developing cool micro SaaS projects, and growing ideas into products.
 ---
-
-🔗 **Connect with Me**  
+**Connect with Me**  
 - LinkedIn: [linkedin.com/in/ramis-kalkan](https://www.linkedin.com/in/ramis-kalkan/) 
 
 <!--
