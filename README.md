@@ -1,6 +1,6 @@
 # Hi there, I'm Ramis! 
 
- **SEO Specialist | Software Developer | Digital Creator**
+ **SEO Manager | Software Developer | Digital Creator**
 ---
 
 ### About Me
