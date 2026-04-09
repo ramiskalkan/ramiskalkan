@@ -8,6 +8,12 @@
 - Passionate about SEO and web development. I love combining data-driven strategies with tech to create scalable solutions.
 - Obsessed with creating meaningful content, developing cool micro SaaS projects, and growing ideas into products.
 ---
+
+### My Projects
+- 🥇 [altinkuru.net](https://altinkuru.net) — Real-time Turkish gold price tracker with live bank comparisons, euro prices for diaspora, and interactive calculators.
+- 🖼️ [tojpg.net](https://tojpg.net) — Multi-format image-to-JPG converter supporting 38+ formats in 20+ languages.
+
+---
 **Connect with Me**  
 - LinkedIn: [linkedin.com/in/ramis-kalkan](https://www.linkedin.com/in/ramis-kalkan/) 
 
