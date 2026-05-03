@@ -6,7 +6,7 @@
 ### About Me
 
 - Passionate about SEO and web development. I love combining data-driven strategies with tech to create scalable solutions.
-- Obsessed with creating meaningful content, developing cool micro SaaS projects, and growing ideas into products.
+- Obsessed with creating meaningful content, developing cool micro SaaS & web projects, and growing ideas into products.
 ---
 
 ### My Projects
